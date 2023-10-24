@@ -27,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=junaid-buet11&show_icons=true&locale=en" alt="junaid-buet11" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=junaid-buet11&" alt="junaid-buet11" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=junaid-eee11&" alt="junaid-eeet11" /></p>
