@@ -25,6 +25,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Junaid-EEE11&show_icons=true&locale=en&layout=compact" alt="Junaid-EEE11" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Junaid-EEE111&show_icons=true&locale=en" alt="Junaid-EEE11" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Junaid-EEE11&show_icons=true&locale=en" alt="Junaid-EEE11" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=junaid-eee11&" alt="junaid-eeet11" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Junaid-EEE11&" alt="Junaid-EEE11" /></p>
