@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Data Science Project**
 
-- 👨‍💻 All of my projects are available at [Site.google.com/junaid](Site.google.com/junaid)
+- 👨‍💻 All of my projects are available at [Junaid Data Site](https://sites.google.com/view/junaid-hossain-buet)
 
 - 📝 I regularly write articles on [Blog.google.com/junaid](Blog.google.com/junaid)
 
