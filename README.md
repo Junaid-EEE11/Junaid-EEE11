@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://drive.google.com/file/d/1UGepGR9QGtqfhTIKF7MqTtweGLxU-OQ8/view?usp=drive_link" />
+ <img src="https://github.com/Junaid-EEE11/Data-Science-Project/blob/main/WhatsApp%20Image%202023-10-25%20at%2010.00.13%20AM.jpeg?raw=true" />
 </h1>
 <h1 align="center">Hi,I'm Junaid Hossain</h1>
 <h3 align="center">A passionate Data Scientist from Bangladesh</h3>
