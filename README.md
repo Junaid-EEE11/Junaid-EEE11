@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=junaid-buet11&label=Profile%20views&color=0e75b6&style=flat" alt="junaid-buet11" /> </p>
 
-- 🔭 I’m currently working on **Power Distribution and Customers Service**
+- 🔭 I’m currently working on **Electrical Power Distribution Network Operation and Customers Service**
 
 - 🌱 I’m currently learning **Applied Statistics and Data Science**
 
