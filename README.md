@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://lh3.googleusercontent.com/AiRTL3B7Ymuq1ImqmvgNAK-MZblDIWGtXIe2DxKmeU6hHLGsO8a9mYO-4vsrTYbDNsPrGQpd5Y9FbxZ7fDaSkzqlViOqboKXSm51lujYLKz-qDQEeSoqSCKQvslxrOhl8w=w1280" />
+ <img src="https://drive.google.com/file/d/1UGepGR9QGtqfhTIKF7MqTtweGLxU-OQ8/view?usp=drive_link" />
 </h1>
 <h1 align="center">Hi,I'm Junaid Hossain</h1>
 <h3 align="center">A passionate Data Scientist from Bangladesh</h3>
