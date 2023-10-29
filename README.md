@@ -14,7 +14,6 @@
 
 - 👨‍💻 All of my projects are available at [Junaid Data Site](https://sites.google.com/view/junaid-hossain-buet)
 
-- 📝 I regularly write articles on [Junaid's Data Blog](Blog.google.com/junaid)
 
 - 📫 How to reach me **junaid.buet.eee11@gmail.com**
 
