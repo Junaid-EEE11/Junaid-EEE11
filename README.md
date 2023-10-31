@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Data Science Project**
 
-- 👨‍💻 All of my projects are available at [Junaid Data Site](https://sites.google.com/view/junaid-hossain-buet)
+- 👨‍💻 All of my projects are available at [Junaid Data Site](https://sites.google.com/view/junaid-eee11)
 
 
 - 📫 How to reach me **junaid.buet.eee11@gmail.com**
