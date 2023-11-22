@@ -1,5 +1,4 @@
 ![download](https://github.com/Junaid-EEE11/Junaid-EEE11/assets/148847367/a2049c12-a5a6-45b5-b2d6-5b38b6b536b9)
-![WhatsApp Image 2023-10-31 at 11 21 02 AM](https://github.com/Junaid-EEE11/Junaid-EEE11/assets/148847367/90c0b8e3-903f-4b8b-895e-d930e44ef756)
 <h1 align="center">
  <img src="https://github.com/Junaid-EEE11/Data-Science-Project/blob/main/WhatsApp%20Image%202023-10-25%20at%2010.00.13%20AM.jpeg?raw=true" />
 </h1>
