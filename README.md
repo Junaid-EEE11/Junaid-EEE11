@@ -3,13 +3,14 @@
  <img src="https://github.com/Junaid-EEE11/Data-Science-Project/blob/main/WhatsApp%20Image%202023-10-25%20at%2010.00.13%20AM.jpeg?raw=true" />
 </h1>
 <h1 align="center">Hi,I'm Junaid Hossain</h1>
-<h3 align="center">A passionate Data Scientist from Bangladesh</h3>
+<h3 align="center">A passionate Data Scientist from Bangladesh and aspiring researcher on smart grid</h3>
+<h3 align="center">Have finished MSc on "Applied Statistics and Data science" from Jahangirnagar University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=junaid-buet11&label=Profile%20views&color=0e75b6&style=flat" alt="junaid-buet11" /> </p>
 
-- 🔭 I’m currently working on **Electrical Power Distribution Network Operation and Customers Service**
+- 🔭 I’m currently working on **Electrical Power Grid & distribution Substation operation and maintenance**
 
-- 🌱 I’m currently learning **Applied Statistics and Data Science**
+- 🌱 I’m currently learning **Application of Data Science on control and protection of distribution grid**
 
 - 👯 I’m looking to collaborate on **Data Science Project**
 
